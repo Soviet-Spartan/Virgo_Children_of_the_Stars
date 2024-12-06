@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/MovingPlatforms/ContactPlatform.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/Sparkles/SparkleTexture.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/Sparkles/Sparkle.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D8/78RA1ALQ95UZ65W5OPEDCF.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/MovingPlatforms/ContactPlatformMat.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/CV/KYWTQUHEULSVZ9LVA4P8S2.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SI/8EFDMWEZSLX3LEJJJ1LWWE.uasset",
+				"D:/Homework/Fall 2024/Game 400/Virgo_Children_of_the_Stars/VirgoCotS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MD/7FKUWI4QU18SRABHLU5A7U.uasset",
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/VIRGOLogo2Stars.uasset",
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/VIRGOLogo_Thumbnail.uasset"
 			]
